@@ -1,0 +1,72 @@
+Projecten
+
+Charlotte Delvaux
+Dialectische Gedragstherapie (DGT)
+Webapp ter ondersteuning van Dialectische Gedragstherapie (DGT)
+Angular, NestJS
+
+Dylan Cathelijn
+Buurtkajaks Gent
+Native mobile applicatie om kajaks te reserveren in Gent
+React Native, Firebase
+
+Jan Deschacht
+Tekst.ai
+Een gebruiksvriendelijk en personaliseerbaar dashboard voor Tekst.ai
+NextJS, Strapi
+
+Thabisa Dingani
+Virtual Closet
+Sociale applicatie om kleding (uit jouw kledingkast) te matchen tot een goede outfit door andere gebruikers
+React Native, Firebase
+
+Jamie-Lee Hart
+Car expense
+Platform om kosten van een auto te bijhouden inclusief speech-to-text
+ReactJS, Supabase
+
+Aiden Soufi
+Crypto Tracker
+Mobiele (native) applicatie voor het tracken van cryptomunten
+React Native, Firebase
+
+Nicolas Cnudde
+La Macarena
+Website voor La Macarena, een organisatie die verschillende activeiten organiseert voor jonge vrouwen
+VueJS, GraphQL
+
+Bram Vandenbussche
+TorchLight
+Mobiele applicatie om characters bij te houden tijdens een Dungeons and Dragons spel
+Angular, Firebase
+
+Bram Criel
+DiscoverSound
+Webapplicatie waarbij je willekeurige nummers te horen krijgt van onbekende bands
+ReactJS, Firebase
+
+
+Socials: 
+
+website  http://www.pgm.gent
+linkedin  https://www.linkedin.com/company/28878545/admin/
+facebook  https://www.facebook.com/Programmeren.ahs
+instagram  https://www.instagram.com/programmeren.ahs/
+youtube  https://www.youtube.com/channel/UCHly8VZULSMWEmvbPJNVtFA
+
+
+
+Events:
+
+Interactieve workshops voor leerlingen laatste graad secundair onderwijs
+https://www.arteveldehogeschool.be/dienstverlening/diensten-voor-scholen/winterlab
+
+Workshops "Zeg het met 3D, Code, Kleur, Beeld en geluid"
+https://ahsdevelopers.github.io/zeghetmetkleur/
+
+Studie-informatiedagen (SID-ins): aanbod aan studie- en beroepsmogelijkheden na je secundair onderwijs
+https://www.arteveldehogeschool.be/bij-ons-studeren/kom-kennismaken/sid-ins
+ 
+Infodag zaterdag 11 maart 2023 (10:00 tot 17:00)
+https://www.arteveldehogeschool.be/bij-ons-studeren/kom-kennismaken/infodagen
+

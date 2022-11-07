@@ -1,0 +1,120 @@
+header , footer{
+    background-color: var(--gray);
+}
+nav {
+       display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+.logo {
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem;
+}
+.logo svg {
+   box-shadow: 0 0 8px 4px beige;
+    border-radius: 50%;
+    background-color: beige;
+    transition: 0.5s  ease;
+}
+
+.logo svg:hover {
+    box-shadow: 0 0 8px 4px ;
+    border-radius: 50%;
+}
+.navLink , .footer__navLink {
+    text-align: left;
+    border: 2px solid var(--white);
+    border-radius: 0.35rem;
+    margin-bottom: 1rem;
+}
+
+.navLink li, .footer__navLink li{
+    list-style-type: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--white);
+    transition: 0.5s ease;
+}
+.navLink li:hover{
+    list-style-type: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--white);
+    background-color: var(--lightgray);
+    border: 0rem;
+}
+.navLink a{
+    text-decoration: none;
+    color: var(--white);
+}
+
+
+footer .footer__navLink a {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-decoration: none;
+    color: var(--white);
+}
+footer .footer__navLink img {
+    height: 3rem;
+    width: 3rem;
+    padding: 0.5rem;
+}
+
+@media only screen and (min-width: 480px) {
+    nav {  
+     flex-direction: column;
+     align-items: center; 
+    }
+    .navLink {
+        display: flex;
+    text-align: center;
+    width: 16rem;
+    flex-direction: column;
+    align-content: center;
+    }
+    .footer__navLink {
+        display: flex;
+        text-align: center;
+        width: 16rem;
+        align-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 1rem;
+    }
+    
+}
+@media only screen and (min-width: 680px) {
+    header nav {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    } 
+    .navLink {
+        margin: 1rem;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border: none;
+    }
+    .navLink li:hover{
+        border-radius: 0.35rem;
+    }
+    
+}
+@media only screen and (min-width: 780px) {
+    .footer__navLink {
+        
+        width: 34rem;
+       
+    }
+    
+}

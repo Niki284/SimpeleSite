@@ -1,0 +1,31 @@
+.events {
+    display: flex;
+    margin: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.events--title {
+    text-align: center;
+    padding: 1rem;        
+    background-color: darkgray;
+}
+.event {
+    list-style-type: none;
+    padding: 0.5rem;
+    min-width: 10rem;
+    max-width: 20rem;
+}
+.event img {
+    height: 6rem;
+    width: 6rem;
+}
+.event a {
+    font-size: 0.8rem;
+    color: var(--black);
+    transition: 0.75s ease;
+}
+.event a:hover {
+    font-size: 0.8rem;
+    color: var(--lightblue);   
+ }
